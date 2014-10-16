@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bcr:home|Door43 (bcr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bcr|d43-bcr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bcr/archive/master.zip|d43-bcr.zip]]
+
+**Recent Changes**
+{{changes>ns = bcr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bcr|Ethnologue data]]
+
